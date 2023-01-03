@@ -1,6 +1,6 @@
 👋 Hi, I’m Divya Prakash
 
-👀 I’m interested in React.js, Java, Spring boot and ML
+👀 I’m interested in Web Development, React.js, Java, Spring boot and ML
 
 🌱 I’m currently learning Spring Boot
 
