@@ -1,6 +1,6 @@
 # *Frontend Developer* 🚀 | *ReactJS Enthusiast* 💻 
 
-Hello! 👋 I'm Divya Prakash, a frontend developer with a knack for clean, efficient code. With over 6 years of experience, I specialize in ReactJS, JavaScript, HTML, and CSS.
+👋 Hi! I'm Divya Prakash, a frontend developer with a knack for clean, efficient code. With over 6 years of experience, I specialize in ReactJS, JavaScript, HTML, and CSS.
 
 🔧 Skills: React.js, JavaScript, HTML, CSS, Java, Spring Boot, Node.js, TestCafe, Selenium
 
