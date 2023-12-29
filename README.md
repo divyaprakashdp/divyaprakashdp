@@ -6,8 +6,8 @@
 
 🌟 Passionate about creating seamless user experiences and contributing to open-source projects. Let's collaborate and build something great together!
 
-🔗 Connect with me on LinkedIn: [My Linkedin Profile](linkedin.com/in/divyaprakashdp) | Check out my projects below!
+🔗 Connect with me on LinkedIn: [My Linkedin Profile](http://linkedin.com/in/divyaprakashdp) | Check out my projects below!
 
-🖼 Visit my portfolio: [PORTFOLIO](divyaprakashdp.github.io)
+🖼 Visit my portfolio: [PORTFOLIO](http://divyaprakashdp.github.io)
 
 [![divyaprakashdp's GitHub | Stats](https://stats.quine.sh/divyaprakashdp/github?theme=dark)](https://quine.sh)
