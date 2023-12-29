@@ -8,6 +8,6 @@
 
 🔗 Connect with me on LinkedIn: [My Linkedin Profile](linkedin.com/in/divyaprakashdp) | Check out my projects below!
 
-[![divyaprakashdp's GitHub | Stats](https://stats.quine.sh/divyaprakashdp/github?theme=dark)](https://quine.sh) [![divyaprakashdp's GitHub | Languages Over Time](https://stats.quine.sh/divyaprakashdp/languages-over-time?theme=dark)](https://quine.sh)
+🖼 Visit my portfolio: [PORTFOLIO](divyaprakashdp.github.io)
 
-
+[![divyaprakashdp's GitHub | Stats](https://stats.quine.sh/divyaprakashdp/github?theme=dark)](https://quine.sh)
